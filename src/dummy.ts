@@ -131,19 +131,19 @@ const volunteering: Array<IVolunteer> = [
       name: "Fundader",
       url: "https://campus.fundader.org",
       country: "Panama",
-      remarks: "Courses for people in hardship"
+      remarks: "Courses for people in hardship."
     },
     isActiveMember: false,
     positions: [
       {
-        title: "Volunteer Professor",
+        title: "Professor",
         startDate: "2023-01",
         endDate: "2024-01",
       },
     ],
     tasks: [
-      "Contributed to various courses",
-      "Taught people on a range of 12 years and older",
+      "Contributed to various courses.",
+      "Taught people on a range of 12 years and older.",
       "Courses of reparation, mantaiment and assembly of personal computers."
     ]
   },
@@ -153,16 +153,16 @@ const education: Array<IEducation> = [
   {
     institution: {
       name: "Technological University of Panama",
-      remarks: "Top-ranked university known for its technological programs",
+      remarks: "Top-ranked university known for its technological programs.",
       city: "Panama City",
       country: "Panama",
       url: "https://utp.ac.pa"
     },
-    degree: "Bachelor in software development",
+    degree: "Bachelor in software development.",
     startDate: "2020-01",
     endDate: "2024-05",
     achievements: [
-      "2.42 index. (tops 3.0)",
+      "2.42/3.0 index.",
     ]
   },
 ];
